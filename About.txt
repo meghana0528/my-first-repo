@@ -1,0 +1,3 @@
+k.Meghana
+3rd BSC-B
+Github is a platform for version control and collaboration, allowing developers to store, track, and manage code changes using Git while working together on projects from anywhere.
